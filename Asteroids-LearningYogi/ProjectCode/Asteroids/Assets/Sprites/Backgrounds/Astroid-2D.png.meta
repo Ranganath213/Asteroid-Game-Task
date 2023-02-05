@@ -1,0 +1,1656 @@
+fileFormatVersion: 2
+guid: 515f95fdd78dd6842b2ad1d85d024f0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9075111771163099342
+    second: Astroid-2D_0
+  - first:
+      213: 8532923282770783976
+    second: Astroid-2D_1
+  - first:
+      213: 488519730711536033
+    second: Astroid-2D_2
+  - first:
+      213: -4392972752816658876
+    second: Astroid-2D_3
+  - first:
+      213: -420730886323520937
+    second: Astroid-2D_4
+  - first:
+      213: 2877590325368716403
+    second: Astroid-2D_5
+  - first:
+      213: 2887191527134018771
+    second: Astroid-2D_6
+  - first:
+      213: 6875256186192448216
+    second: Astroid-2D_7
+  - first:
+      213: 1305895959495905055
+    second: Astroid-2D_8
+  - first:
+      213: -2845510990509402392
+    second: Astroid-2D_9
+  - first:
+      213: 1259146708292770355
+    second: Astroid-2D_10
+  - first:
+      213: -3864954806784561401
+    second: Astroid-2D_11
+  - first:
+      213: -3512368675902822398
+    second: Astroid-2D_12
+  - first:
+      213: -6455333505110493123
+    second: Astroid-2D_13
+  - first:
+      213: -8014450746023990122
+    second: Astroid-2D_14
+  - first:
+      213: -1224496677557924395
+    second: Astroid-2D_15
+  - first:
+      213: -8518804167251695832
+    second: Astroid-2D_16
+  - first:
+      213: -8012277090643402804
+    second: Astroid-2D_17
+  - first:
+      213: 7632937108085609107
+    second: Astroid-2D_18
+  - first:
+      213: -3258654673371205947
+    second: Astroid-2D_19
+  - first:
+      213: -4753329991581828515
+    second: Astroid-2D_20
+  - first:
+      213: 4231527618407906853
+    second: Astroid-2D_21
+  - first:
+      213: -8637276089989184711
+    second: Astroid-2D_22
+  - first:
+      213: -3809302344580196172
+    second: Astroid-2D_23
+  - first:
+      213: -342540711251156847
+    second: Astroid-2D_24
+  - first:
+      213: 6495009114183375010
+    second: Astroid-2D_25
+  - first:
+      213: -7748718949826557575
+    second: Astroid-2D_26
+  - first:
+      213: -3571708351654477109
+    second: Astroid-2D_27
+  - first:
+      213: -8251334730979051734
+    second: Astroid-2D_28
+  - first:
+      213: 7540003200122872956
+    second: Astroid-2D_29
+  - first:
+      213: 9160295487587864903
+    second: Astroid-2D_30
+  - first:
+      213: -2695479252892810397
+    second: Astroid-2D_31
+  - first:
+      213: 5617873431374231321
+    second: Astroid-2D_32
+  - first:
+      213: 930735061744156972
+    second: Astroid-2D_33
+  - first:
+      213: -8719993623964560090
+    second: Astroid-2D_34
+  - first:
+      213: 7052067185091000203
+    second: Astroid-2D_35
+  - first:
+      213: -5587964959569880673
+    second: Astroid-2D_36
+  - first:
+      213: -3072667446617383794
+    second: Astroid-2D_37
+  - first:
+      213: 6367611028570260807
+    second: Astroid-2D_38
+  - first:
+      213: 9183434394555916924
+    second: Astroid-2D_39
+  - first:
+      213: 1476179590328602571
+    second: Astroid-2D_40
+  - first:
+      213: -4422039951555786858
+    second: Astroid-2D_41
+  - first:
+      213: -6146191448606871940
+    second: Astroid-2D_42
+  - first:
+      213: 498596814339512867
+    second: Astroid-2D_43
+  - first:
+      213: 5787648819131491806
+    second: Astroid-2D_44
+  - first:
+      213: 663323793510804446
+    second: Astroid-2D_45
+  - first:
+      213: 6505681647135737326
+    second: Astroid-2D_46
+  - first:
+      213: 7411613058011926310
+    second: Astroid-2D_47
+  - first:
+      213: 3898372018701484106
+    second: Astroid-2D_48
+  - first:
+      213: -690978121230580229
+    second: Astroid-2D_49
+  - first:
+      213: 4594078455952973113
+    second: Astroid-2D_50
+  - first:
+      213: -6458651729298288287
+    second: Astroid-2D_51
+  - first:
+      213: 799511165465458228
+    second: Astroid-2D_52
+  - first:
+      213: -4945147499012552653
+    second: Astroid-2D_53
+  - first:
+      213: 9027456824848270079
+    second: Astroid-2D_54
+  - first:
+      213: -7392985455192039231
+    second: Astroid-2D_55
+  - first:
+      213: -1279914467830060039
+    second: Astroid-2D_56
+  - first:
+      213: -6434182561448047485
+    second: Astroid-2D_57
+  - first:
+      213: -2470077056476345943
+    second: Astroid-2D_58
+  - first:
+      213: -6177123981094079293
+    second: Astroid-2D_59
+  - first:
+      213: 546059894582999550
+    second: Astroid-2D_60
+  - first:
+      213: -8954925261310354552
+    second: Astroid-2D_61
+  - first:
+      213: 5332997251348741124
+    second: Astroid-2D_62
+  - first:
+      213: -5151403603982215953
+    second: Astroid-2D_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Astroid-2D_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 899
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec08429e21641fd70800000000000000
+      internalID: 9075111771163099342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 898
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee663d24880b6670800000000000000
+      internalID: 8532923282770783976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 896
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1a4d65b1297c600800000000000000
+      internalID: 488519730711536033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 893
+        width: 98
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446a4686e860903c0800000000000000
+      internalID: -4392972752816658876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 893
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ab6aeec73492af0800000000000000
+      internalID: -420730886323520937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_5
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 892
+        width: 98
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cf3b0a7214fe720800000000000000
+      internalID: 2877590325368716403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_6
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 893
+        width: 97
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc375d956d511820800000000000000
+      internalID: 2887191527134018771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_7
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 892
+        width: 94
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dacecd1311d96f50800000000000000
+      internalID: 6875256186192448216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 761
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f0f5bc4797f1210800000000000000
+      internalID: 1305895959495905055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 761
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6973e84d6b288d0800000000000000
+      internalID: -2845510990509402392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_10
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 762
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a94eb8243697110800000000000000
+      internalID: 1259146708292770355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_11
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 764
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70feaa4a41cec5ac0800000000000000
+      internalID: -3864954806784561401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_12
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 767
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2086a907c4f814fc0800000000000000
+      internalID: -3512368675902822398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_13
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 771
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d383631016c0a66a0800000000000000
+      internalID: -6455333505110493123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_14
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 775
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c20654283f6c090800000000000000
+      internalID: -8014450746023990122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_15
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 775
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd838962c6b10fe0800000000000000
+      internalID: -1224496677557924395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 644
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82768d39eb027c980800000000000000
+      internalID: -8518804167251695832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 642
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf133adf6caec090800000000000000
+      internalID: -8012277090643402804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 641
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3921758dbd3ade960800000000000000
+      internalID: 7632937108085609107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 639
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ceea04f6dee6c2d0800000000000000
+      internalID: -3258654673371205947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_20
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 639
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5afd8f8e87c80eb0800000000000000
+      internalID: -4753329991581828515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_21
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 640
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e357803f769ba30800000000000000
+      internalID: 4231527618407906853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_22
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 639
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933483d882b322880800000000000000
+      internalID: -8637276089989184711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_23
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 641
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b81c3d33b3a22bc0800000000000000
+      internalID: -3809302344580196172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 514
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190e3c8b90d0f3bf0800000000000000
+      internalID: -342540711251156847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_25
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 513
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a813d79068e22a50800000000000000
+      internalID: 6495009114183375010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_26
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 513
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979004b6b25077490800000000000000
+      internalID: -7748718949826557575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_27
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 514
+        width: 97
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2c65a8d2ebe6ec0800000000000000
+      internalID: -3571708351654477109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_28
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 516
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27762597ce5d7d80800000000000000
+      internalID: -8251334730979051734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_29
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 517
+        width: 94
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74e1ac36f873a860800000000000000
+      internalID: 7540003200122872956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_30
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 517
+        width: 90
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741d94f6638ef1f70800000000000000
+      internalID: 9160295487587864903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_31
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 515
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36383e796ebb79ad0800000000000000
+      internalID: -2695479252892810397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 385
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9177a2efe12b6fd40800000000000000
+      internalID: 5617873431374231321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_33
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 383
+        width: 85
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21034f7b92aaec00800000000000000
+      internalID: 930735061744156972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_34
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 384
+        width: 87
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625dbefdffb5cf680800000000000000
+      internalID: -8719993623964560090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_35
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 382
+        width: 89
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87b98bcdb9fdd160800000000000000
+      internalID: 7052067185091000203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_36
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 380
+        width: 89
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99d18fb97f8372b0800000000000000
+      internalID: -5587964959569880673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_37
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 378
+        width: 89
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cd67bac31bb55d0800000000000000
+      internalID: -3072667446617383794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_38
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 379
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7454ac15e7c4e5850800000000000000
+      internalID: 6367611028570260807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_39
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 380
+        width: 91
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c722c990dec127f70800000000000000
+      internalID: 9183434394555916924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 255
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfc73a24817c7410800000000000000
+      internalID: 1476179590328602571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_41
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 255
+        width: 89
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6978ee0d712c1a2c0800000000000000
+      internalID: -4422039951555786858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_42
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 253
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e6e30017754baa0800000000000000
+      internalID: -6146191448606871940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_43
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 252
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a19d4392f5be600800000000000000
+      internalID: 498596814339512867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_44
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 252
+        width: 86
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5aa0dcfebd15050800000000000000
+      internalID: 5787648819131491806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_45
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 252
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edba64bc979943900800000000000000
+      internalID: 663323793510804446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_46
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 253
+        width: 83
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5cd4f4df2d84a50800000000000000
+      internalID: 6505681647135737326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_47
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 254
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f827fcec65bd660800000000000000
+      internalID: 7411613058011926310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 126
+        width: 89
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40460152bcc91630800000000000000
+      internalID: 3898372018701484106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_49
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 127
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf50c784f072966f0800000000000000
+      internalID: -690978121230580229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_50
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 128
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d1a55e30271cf30800000000000000
+      internalID: 4594078455952973113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_51
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 129
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161963bb8724e56a0800000000000000
+      internalID: -6458651729298288287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_52
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 130
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436f6834b2f681b00800000000000000
+      internalID: 799511165465458228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_53
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 132
+        width: 103
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3380277dc8e4f5bb0800000000000000
+      internalID: -4945147499012552653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_54
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 134
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2c1461728f74d70800000000000000
+      internalID: 9027456824848270079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_55
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 131
+        width: 100
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c026a1f5e6d66990800000000000000
+      internalID: -7392985455192039231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb2b12a294dc3ee0800000000000000
+      internalID: -1279914467830060039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_57
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c40e4dc0135b6a0800000000000000
+      internalID: -6434182561448047485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_58
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a982e0110688bdd0800000000000000
+      internalID: -2470077056476345943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_59
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4375d8772764aa0800000000000000
+      internalID: -6177123981094079293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_60
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 4
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9f4bab49ef39700800000000000000
+      internalID: 546059894582999550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_61
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 5
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b9c698be6b9b380800000000000000
+      internalID: -8954925261310354552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_62
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 3
+        width: 86
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cb6c2aebc920a40800000000000000
+      internalID: 5332997251348741124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astroid-2D_63
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe419f927b98288b0800000000000000
+      internalID: -5151403603982215953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
